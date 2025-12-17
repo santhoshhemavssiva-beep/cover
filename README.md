@@ -100,7 +100,7 @@ Publish the website in the LocalHost.
 <body>
   <div class="book-cover">
     <div>
-      <div class="title"><b>LOT OF THE FILES</b></i></div>
+      <div class="title"><b>LORD OF THE FILES</b></i></div>
       <div class="line"></div>
       <div class="subtitle">BRITISH SCHOOLBOYS STANDARD ON THE DESERTED ISLAND AFTER PLANE CRASH</div>
     </div>
@@ -115,8 +115,8 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-12-17 155733.png>)
 
+![alt text](<Screenshot 2025-12-17 160405.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
